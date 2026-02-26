@@ -1,0 +1,2 @@
+# fugu
+extention for chrome
