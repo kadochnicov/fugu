@@ -3,8 +3,8 @@
     "description": "i can help you",
     "version": "1.0",
     "manifest_version": 3,
-    "icons": {
-        "16":"icons/16.png"
+   "icons": {
+        "32":"icons/icon32.png"
     },
     "action": {},
     "permissions": [],
